@@ -4,11 +4,13 @@
   <h1 style="color: red; font-family: 'Arial';">Hi there👋 I'm Giulia😊</h1>
 </div>
 
+<!--
 <h1 align="center">
   <a href="https://shields.io/">
     <img src="https://img.shields.io/badge/Welcome%20to%20my%20GitHub%20profile!-green?style=for-the-badge&logo=github" alt="Welcome to my GitHub profile" />
   </a>
 </h1>
+-->
 
   - 🌱 I’m currently an MSc Student in Software Security and Engineering (Università degli Studi di Genova)
 
